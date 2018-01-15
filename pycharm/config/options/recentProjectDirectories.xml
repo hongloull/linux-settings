@@ -1,0 +1,541 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/workspace/vpipeline" />
+        <option value="/data/share/boCai/assetpipeline/daily/20180105/playblast_util" />
+        <option value="$USER_HOME$/workspace/sgfw" />
+        <option value="$USER_HOME$/workspace/odw/shotgunframework" />
+        <option value="$USER_HOME$/workspace/odw/sgtkutils" />
+        <option value="$USER_HOME$/workspace/odw/kfp3casgtk" />
+        <option value="$USER_HOME$/workspace/ver/sgtk" />
+        <option value="$USER_HOME$/workspace/odw/kfp3cacore" />
+        <option value="$USER_HOME$/workspace/shotsetup" />
+        <option value="$USER_HOME$/workspace/pyexample" />
+        <option value="$USER_HOME$/workspace/odw/odwmaya" />
+        <option value="/tmp/playblast_show_config.yml" />
+        <option value="$USER_HOME$/workspace/USD" />
+        <option value="$USER_HOME$/workspace/AL_USDMaya" />
+        <option value="$USER_HOME$/workspace/qtexample" />
+        <option value="$USER_HOME$/workspace/usdbuild" />
+        <option value="$USER_HOME$/workspace/pysideexample" />
+        <option value="$USER_HOME$/workspace/sg/tk-config-default" />
+        <option value="$USER_HOME$/workspace/digital37" />
+        <option value="$USER_HOME$/workspace/usdtutorials/endToEnd" />
+        <option value="$USER_HOME$/workspace/rezpy" />
+        <option value="$USER_HOME$/workspace/test" />
+        <option value="$USER_HOME$/workspace/pipeline_zslm" />
+        <option value="$USER_HOME$/workspace/odw/dwapython" />
+        <option value="$USER_HOME$/workspace/ver/kunta2sgtk" />
+        <option value="$USER_HOME$/workspace/ver/robotsgtk" />
+        <option value="$USER_HOME$/workspace/ver/vermodeling" />
+        <option value="$USER_HOME$/workspace/ver/vermaya" />
+        <option value="$USER_HOME$/workspace/ver/verpython" />
+        <option value="$USER_HOME$/workspace/odw/odwanimation" />
+        <option value="$USER_HOME$/workspace/ver/robotcore" />
+        <option value="$USER_HOME$/workspace/ver/verrigging" />
+        <option value="$USER_HOME$/workspace/ver/robotconf" />
+        <option value="$USER_HOME$/workspace/film_template" />
+        <option value="/apps/shared/maya/2016" />
+        <option value="$USER_HOME$/workspace/sgconf" />
+        <option value="$USER_HOME$/workspace/contacts" />
+        <option value="$USER_HOME$/PycharmProjects/untitled" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/workspace/vpipeline" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/workspace/vpipeline" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="/apps/shared/maya/2016">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-162.1967.10" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1483684138934" />
+              <option name="buildTimestamp" value="1473177600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/data/share/boCai/assetpipeline/daily/20180105/playblast_util">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-171.4694.67" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1515582338195" />
+              <option name="buildTimestamp" value="1499116864361" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/untitled">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-162.1812.1" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1474470406670" />
+              <option name="buildTimestamp" value="1471276800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/vermaya">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-162.1967.10" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1483422408572" />
+              <option name="buildTimestamp" value="1473177600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/AL_USDMaya">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-171.4694.67" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1511170243862" />
+              <option name="buildTimestamp" value="1499116871959" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/USD">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-171.4694.67" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1511531699081" />
+              <option name="buildTimestamp" value="1499116896439" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/contacts">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-162.1967.10" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1478868101917" />
+              <option name="buildTimestamp" value="1473177600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/digital37">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-171.4694.67" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1506855938226" />
+              <option name="buildTimestamp" value="1499116905704" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/film_template">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-162.1967.10" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1483712364707" />
+              <option name="buildTimestamp" value="1473177600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/odw/dwapython">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-163.15188.4" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1490181343048" />
+              <option name="buildTimestamp" value="1489165093815" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/odw/kfp3cacore">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-171.4694.67" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1515067455483" />
+              <option name="buildTimestamp" value="1499116888044" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/odw/kfp3casgtk">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-171.4694.67" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1515067554343" />
+              <option name="buildTimestamp" value="1499116888044" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/odw/odwanimation">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-162.1967.10" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1484576821731" />
+              <option name="buildTimestamp" value="1473177600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/odw/odwmaya">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-171.4694.67" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1512392978262" />
+              <option name="buildTimestamp" value="1499116866782" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/odw/sgtkutils">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-171.4694.67" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1515067674408" />
+              <option name="buildTimestamp" value="1499116888044" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/odw/shotgunframework">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-171.4694.67" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1515216629924" />
+              <option name="buildTimestamp" value="1499116888926" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/odwanimation">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-162.1967.10" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1483612764197" />
+              <option name="buildTimestamp" value="1473177600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/odwmaya">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-162.1967.10" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1483625924891" />
+              <option name="buildTimestamp" value="1473177600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/pipeline_zslm">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-171.4694.67" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1500116954552" />
+              <option name="buildTimestamp" value="1499116919195" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/pyexample">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-171.4694.67" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1514113292346" />
+              <option name="buildTimestamp" value="1499116910903" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/pysideexample">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-171.4694.67" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1508405030917" />
+              <option name="buildTimestamp" value="1499116887417" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/qtexample">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-171.4694.67" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1510313838867" />
+              <option name="buildTimestamp" value="1499116870139" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/rezpy">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-171.4694.67" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1504009150086" />
+              <option name="buildTimestamp" value="1499116898888" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/sg/tk-config-default">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-171.4694.67" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1507955694247" />
+              <option name="buildTimestamp" value="1499116910301" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/sgconf">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-162.1967.10" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1481815954256" />
+              <option name="buildTimestamp" value="1473177600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/sgfw">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-171.4694.67" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1515288027032" />
+              <option name="buildTimestamp" value="1499116911545" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/sgtk">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-162.1967.10" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1483858174187" />
+              <option name="buildTimestamp" value="1473177600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/shotsetup">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-171.4694.67" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1514892636533" />
+              <option name="buildTimestamp" value="1499116865989" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-171.4694.67" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1500117092340" />
+              <option name="buildTimestamp" value="1499116919195" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/usdbuild">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-171.4694.67" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1509964433380" />
+              <option name="buildTimestamp" value="1499116884044" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/usdtutorials/endToEnd">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-171.4694.67" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1505302832774" />
+              <option name="buildTimestamp" value="1499116862554" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/ver/kunta2sgtk">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-162.1967.10" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1485240321611" />
+              <option name="buildTimestamp" value="1473177600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/ver/robotconf">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-162.1967.10" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1484037930228" />
+              <option name="buildTimestamp" value="1473177600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/ver/robotcore">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-162.1967.10" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1484052521217" />
+              <option name="buildTimestamp" value="1473177600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/ver/robotsgtk">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-162.1967.10" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1485227486984" />
+              <option name="buildTimestamp" value="1473177600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/ver/sgtk">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-171.4694.67" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1515067535318" />
+              <option name="buildTimestamp" value="1499116888044" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/ver/vermaya">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-162.1967.10" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1484660701880" />
+              <option name="buildTimestamp" value="1473177600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/ver/vermodeling">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-162.1967.10" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1484836965420" />
+              <option name="buildTimestamp" value="1473177600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/ver/verpython">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-162.1967.10" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1484657534153" />
+              <option name="buildTimestamp" value="1473177600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/ver/verrigging">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-162.1967.10" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1484050237876" />
+              <option name="buildTimestamp" value="1473177600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/vermaya">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-162.1967.10" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1483613158537" />
+              <option name="buildTimestamp" value="1473177600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/verpython">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-162.1967.10" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1483422364332" />
+              <option name="buildTimestamp" value="1473177600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/vpipeline">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-171.4694.67" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1516028577851" />
+              <option name="buildTimestamp" value="1499116881020" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/tmp/playblast_show_config.yml">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-171.4694.67" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1511777287970" />
+              <option name="buildTimestamp" value="1499116899060" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/workspace/ver" />
+  </component>
+</application>

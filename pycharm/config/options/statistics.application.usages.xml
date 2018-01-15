@@ -1,0 +1,92 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="Git">
+      <project id="untitled" values="config.push.update.all.roots.enabled,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.force.push.enabled,config.warn.about.detached.enabled" collectionTime="1474470716110" />
+      <project id="pysideexample" values="data.remotes.in.project.1,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.save.policy.STASH,config.force.push.enabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,data.local.branches.count.2+,config.repo.sync.NOT_DECIDED,data.remote.branches.count.1,config.update.type.BRANCH_DEFAULT" collectionTime="1477582416506" />
+      <project id="pyexample" values="config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,data.remote.branches.count.2+,config.force.push.enabled,config.push.autoupdate.disabled,data.local.branches.count.2+,config.ssh.enabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.save.policy.STASH,data.remotes.in.project.1" collectionTime="1476799257230" />
+      <project id="contacts" values="config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.warn.about.detached.enabled,data.remotes.in.project.1,data.remote.branches.count.1,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.ssh.enabled,data.local.branches.count.1,config.update.type.BRANCH_DEFAULT" collectionTime="1478431046652" />
+    </group>
+    <group name="VCS Log 2">
+      <project id="pysideexample" values="data.git.root.count.1,data.commit.count.1+" collectionTime="1477582416505" />
+      <project id="pyexample" values="data.git.root.count.1,data.commit.count.1+" collectionTime="1476799257229" />
+      <project id="contacts" values="data.git.root.count.1,data.commit.count.1+" collectionTime="1478431046651" />
+    </group>
+    <group name="vcs">
+      <project id="pysideexample" values="Git" collectionTime="1477582416405" />
+      <project id="pyexample" values="Git" collectionTime="1476799257148" />
+      <project id="contacts" values="Git" collectionTime="1478431046587" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="untitled" values="PythonConfigurationType" collectionTime="1474470716082" />
+      <project id="pysideexample" values="PythonConfigurationType" collectionTime="1477582416406" />
+      <project id="pyexample" values="tests.Nosetests,PythonConfigurationType" collectionTime="1476799257149" />
+      <project id="contacts" values="PythonConfigurationType,tests.Unittests" collectionTime="1478431046588" />
+    </group>
+    <group name="images.ide.background">
+      <project id="untitled" values="editor 0,frame 0" collectionTime="1474470716105" />
+      <project id="pysideexample" values="editor 0,frame 0" collectionTime="1477582416505" />
+      <project id="pyexample" values="frame 0,editor 0" collectionTime="1476799257229" />
+      <project id="contacts" values="editor 0,frame 0" collectionTime="1478431046651" />
+    </group>
+    <group name="py-interpreter">
+      <project id="untitled" values="Python 2.7.5 [virtualenv]" collectionTime="1474470716105" />
+      <project id="pysideexample" values="Python 2.7.5" collectionTime="1477582416505" />
+      <project id="pyexample" values="Python 2.7.5" collectionTime="1476799257229" />
+      <project id="contacts" values="Python 2.7.10" collectionTime="1478431046651" />
+    </group>
+    <group name="file-type">
+      <project id="pysideexample" values="PLAIN_TEXT,Python" collectionTime="1477582416503" />
+      <project id="pyexample" values="Python,PLAIN_TEXT" collectionTime="1476799257228" />
+      <project id="contacts" values="Python,ARCHIVE,PLAIN_TEXT,YAML,HTML" collectionTime="1478431046650" />
+    </group>
+    <group name="module type">
+      <project id="untitled" values="PYTHON_MODULE" collectionTime="1474470716082" />
+      <project id="pysideexample" values="PYTHON_MODULE" collectionTime="1477582416406" />
+      <project id="pyexample" values="PYTHON_MODULE" collectionTime="1476799257148" />
+      <project id="contacts" values="PYTHON_MODULE" collectionTime="1478431046587" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="AbstractNewProjectStep.Pure Python" count="4" />
+      <entry feature="CreateFile.CreateFileAction" count="21" />
+      <entry feature="StripeButton[Version Control].hidden" count="2" />
+      <entry feature="StripeButton[Version Control].shown" count="1" />
+      <entry feature="StripeButton[Version_Control].shown" count="8" />
+      <entry feature="execute.PythonConfigurationType.Debug" count="28" />
+      <entry feature="execute.PythonConfigurationType.Run" count="294" />
+      <entry feature="execute.tests.Coverage" count="2" />
+      <entry feature="execute.tests.Debug" count="9" />
+      <entry feature="execute.tests.Profiler" count="3" />
+      <entry feature="execute.tests.Run" count="525" />
+      <entry feature="ide.help.procedures.workingwithprojects.multiple" count="1" />
+      <entry feature="ide.help.top" count="2" />
+      <entry feature="ide.settings.Appearance" count="7" />
+      <entry feature="ide.settings.Code_Style" count="2" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="3" />
+      <entry feature="ide.settings.Console_Font" count="4" />
+      <entry feature="ide.settings.Diagrams" count="1" />
+      <entry feature="ide.settings.External_Tools" count="2" />
+      <entry feature="ide.settings.File_Types" count="12" />
+      <entry feature="ide.settings.File_and_Code_Templates" count="2" />
+      <entry feature="ide.settings.Font" count="6" />
+      <entry feature="ide.settings.GitHub" count="1" />
+      <entry feature="ide.settings.Inspections" count="6" />
+      <entry feature="ide.settings.Keymap" count="10" />
+      <entry feature="ide.settings.Notifications" count="1" />
+      <entry feature="ide.settings.Project_Interpreter" count="6" />
+      <entry feature="ide.settings.Project_Structure" count="12" />
+      <entry feature="ide.settings.Python" count="1" />
+      <entry feature="ide.settings.Quick_Lists" count="4" />
+      <entry feature="ide.settings.System_Settings" count="2" />
+      <entry feature="ideaapp.started" count="139" />
+      <entry feature="python.console.local" count="9" />
+      <entry feature="terminal.linux" count="42" />
+      <entry feature="uml.ShowDiagram.Python" count="1" />
+      <entry feature="uml.ShowDiagram.Python.popup" count="3" />
+      <entry feature="vcs.log.ShowDiff" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.GetFromVcs" count="1" />
+      <entry feature="welcome.screen.null" count="11" />
+    </counts>
+  </component>
+</application>

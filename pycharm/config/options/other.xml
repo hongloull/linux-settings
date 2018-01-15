@@ -1,0 +1,54 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyPep8NamingInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="/apps/shared/python/2.7.10/platform-linux/bin/python" value="false" />
+        <entry key="/data/apps/shared/python/2.7.10/bin/python" value="false" />
+        <entry key="/data/apps/shared/python/2.7.5/bin/python2.7" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="/apps/shared/python/2.7.10/platform-linux/bin/python" value="true" />
+        <entry key="/data/apps/shared/python/2.7.10/bin/python" value="true" />
+        <entry key="/data/apps/shared/python/2.7.5/bin/python2.7" value="false" />
+        <entry key="$USER_HOME$/workspace/pyCharmWorkspace/bin/python" value="true" />
+      </map>
+    </option>
+    <option name="SDK_TO_ATTEST">
+      <map>
+        <entry key="/apps/shared/python/2.7.10/platform-linux/bin/python" value="false" />
+        <entry key="/data/apps/shared/python/2.7.10/bin/python" value="false" />
+        <entry key="/data/apps/shared/python/2.7.5/bin/python2.7" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
